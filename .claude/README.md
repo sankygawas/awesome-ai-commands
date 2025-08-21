@@ -2,6 +2,8 @@
 
 A custom statusline script for Claude Code that provides comprehensive information about your development environment, session status, and usage metrics.
 
+![Claude Code Statusline](../assets/image.png)
+
 ## Features
 
 The statusline displays:
